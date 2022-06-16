@@ -1,4 +1,4 @@
-baseURL = "localhost:1313"
+baseURL = "https://rocket-0pre.onrender.com"
 languageCode = "en-us"
 title = "Rocket"
 theme = "minimal"
