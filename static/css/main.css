@@ -1,0 +1,117 @@
+html, body {
+    height: 100%;
+    color: #dcede9;
+}
+
+body {
+    padding-top: 55px;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    color: #dcede9;
+}
+
+main {
+    margin: auto;
+    padding: 25px;
+    flex: 1 0 auto;
+    max-width: 750px;
+    color: #dcede9;
+}
+
+img {
+    max-width: 100%;
+}
+
+/* Homepage */
+
+.intro {
+    transform: translateY(22vh);
+    color: #dcede9;
+}
+
+.intro > h1 {
+    color: #23d3aa;
+    font-size: 12vh;
+}
+
+.intro > h2 {
+    color: #dcede9;
+    font-size: 3vmin;
+}
+
+/* Page content */
+
+.content {
+    padding-top: 20px;
+    color: #dcede9;
+}
+
+/* Profile picture */
+
+.profile {
+    width: 10vh;
+    height: 10vh;
+    border-radius: 50%;
+    color: #dcede9;
+}
+
+/* Colored links */
+
+a:link, a:visited {
+    color: #dcede9;
+}
+
+a.icon:hover {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #23d3aa !important;
+}
+
+/* Copyright message */
+
+.copyright {
+    margin: 15px 0;
+    color: #dcede9;
+}
+
+/* Paginator */
+
+.pages {
+    padding: 15px 0;
+    color: #dcede9;
+}
+
+.pages-icon {
+    padding: 0 15px;
+    color: #dcede9;
+}
+
+/* List item for posts/projects */
+
+.item {
+    padding: 10px 0;
+    color: #dcede9;
+}
+
+.item-tag {
+    background-color: #12876c;
+}
+
+/* Navigation icons */
+.navbar-icon {
+    font-size: 125%;
+    display: inline-block !important;
+}
+
+/* Colored borders at top/bottom of page */
+.navbar.navbar-default {
+    border-top: var(--border-width) solid var(--accent);
+    background-color: black;
+}
+
+footer {
+    border-bottom: var(--border-width) solid var(--accent);
+}
