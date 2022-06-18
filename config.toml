@@ -11,6 +11,7 @@ theme = "minimal"
     showBorder = true
     backgroundColor = "black"
     font = "Raleway" # should match the name on Google Fonts
+    favicon = "/images/fav/favicon.ico"
 
 [[menu.main]]
     url = "/"
