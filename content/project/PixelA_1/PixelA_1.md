@@ -16,7 +16,7 @@ draft: false
 
 ![Alone in a cave](/images/Cave.png)
 
-*Alone in a cave*
+*Alone in a cave *
 
 ![Lost game menu background](/images/MenuBC.png)
 
