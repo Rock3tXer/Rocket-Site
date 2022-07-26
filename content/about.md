@@ -6,7 +6,7 @@ description: Welcome on my site!
 Hello! 
 My name is **Adrian**. But on the internet, I go by as **Rock3tXer** or **Rocket**. I’m 19yo student trying to learn software development and art. 
 
-The foundation of my learning came from high school where I learned the basics of Python and C++. For the final high school project, I made a  [game](https://github.com/Rock3tXer/Simple-2D-Platformer/) using **[UNITY](https://unity.com/)** engine coded in C++. 
+The foundation of my learning came from high school where I learned the basics of Python and C++. For the final high school project, I made a  [game](https://github.com/Rock3tXer/Simple-2D-Platformer/) using **[UNITY](https://unity.com/)** engine coded in C#. 
 Since then I don’t have any new projects that I’m working on; instead, I’m focusing more on the art part. 
 As you can see in my Projects section there is a Pixel Art post where I’ll post all my finished pieces. 
 
