@@ -10,14 +10,19 @@ draft: false
 
 ### Here is a small collection of my pixel art
 
+![Lost game menu background](/images/MenuBC.png)
+
+*Menu background for my 2D platformer*
+
+![Alone in a cave](/images/Cave.png)
+
+*Alone in a cave*
+
 ![Spotify playlist cover](/images/SpotifyPlaylist.png)
 
 *Cover for my Spotify playlist*
 
-![Alone in a cave](/images/Cave.png)
+![Portal Valley Concept](/images/PortalValley.png)
 
-*Alone in a cave *
+*Portal Valley - Concept art for Project DreamScape*
 
-![Lost game menu background](/images/MenuBC.png)
-
-*Menu background for my 2D platformer*
