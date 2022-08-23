@@ -1,7 +1,7 @@
 <h1 align="center">Rocket site</h1>
 <h3 align="center">Personal website used as portfolio</h3>
 
-![Old site designs](/images/ReadMeSite.png)
+![RocketSiteVisual](https://user-images.githubusercontent.com/26581618/186103749-1ce70036-d5ba-4bcb-a2c8-ed2f3e7effda.png)
 
 - 💡 This website is a small side project of mine to keep every work I've done in 1 place.
 - 💻 Tool used to create the website:
