@@ -5,7 +5,7 @@ theme = "minimal"
 
 [params]
     author = "Rock3tXer"
-    description = "Personal website"
+    description = "Portfolio"
     githubUsername = "Rock3tXer"
     accent = '#23d3aa'
     showBorder = true
@@ -51,4 +51,7 @@ theme = "minimal"
     url = "https://www.linkedin.com/in/username/"
     name = "fab fa-linkedin"
     weight = 3
+
+
+    
 

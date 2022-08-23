@@ -1,7 +1,7 @@
 ---
 title: "Site Update"
 date: 2022-06-16
-tags: ["web dev"]
+tags: ["Web-Dev"]
 draft: false
 ---
 

@@ -2,7 +2,7 @@
 title: "Pixel Art"
 description: "A small collection of my work"
 repo: "" # delete this line if you want a blog-like page
-tags: ["Pixel Art"]
+tags: ["Pixel-Art"]
 weight: 2
 draft: false
 ---
