@@ -48,7 +48,7 @@ theme = "minimal"
     weight = 2
 
 [[menu.icon]]
-    url = "https://www.linkedin.com/in/username/"
+    url = "www.linkedin.com/in/rock3txer"
     name = "fab fa-linkedin"
     weight = 3
 
