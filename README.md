@@ -1,5 +1,5 @@
 <h1 align="center">Rocket site</h1>
-<h3 align="center">Personal website used as portfolio</h3>
+<h3 align="center">Old version of my personal website used as portfolio</h3>
 
 ![RocketSiteVisual](https://user-images.githubusercontent.com/26581618/186103749-1ce70036-d5ba-4bcb-a2c8-ed2f3e7effda.png)
 
